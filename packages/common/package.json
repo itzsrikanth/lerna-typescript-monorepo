@@ -1,0 +1,21 @@
+{
+  "name": "@tt/common",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "itzsrikanth <snow.650@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch"
+  }
+}
